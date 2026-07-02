@@ -76,7 +76,7 @@ AbNormal  : 이상 제품
 | Evaluation Metric | F1 Score |
 | Final Rank | 31 / 740 |
 | Private Score | 0.229457 |
-| Public Score | 0.2263856362217018 |
+| Public Score | 0.226385 |
 | Baseline Score | 0.14 |
 | Improvement | 약 61.7% 향상 |
 | Project Type | Individual Project |
@@ -862,7 +862,7 @@ else:
 | 항목 | 결과 |
 |---|---:|
 | Evaluation Metric | F1 Score |
-| Public Score | 0.2263856362217018 |
+| Public Score | 0.226385 |
 | Private Score | 0.229457 |
 | Final Rank | 31 / 740 |
 | Percentile | Top 4.2% |
