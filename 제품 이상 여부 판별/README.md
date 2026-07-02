@@ -22,9 +22,9 @@
 - [12. Results](#12-results)
 - [13. My Contribution](#13-my-contribution)
 - [14. Lessons Learned](#14-lessons-learned)
-- [15. Repository Structure](#15-repository-structure)
-- [16. Tech Stack](#16-tech-stack)
-
+- [15. Tech Stack](#15-tech-stack)
+- [16. Summary](#16-summary)
+  
 ---
 
 # 1. Project Overview
