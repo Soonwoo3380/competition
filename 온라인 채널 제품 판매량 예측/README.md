@@ -160,22 +160,6 @@ Notebook
 
 ---
 
-# 📂 Repository Structure
-
-```text
-.
-├── notebooks
-│   ├── 01_product-category-mapping.ipynb
-│   ├── 02_brand-price-feature-engineering.ipynb
-│   ├── 03_feature-engineering.ipynb
-│   └── 04_final-training-and-inference.ipynb
-├── data
-├── README.md
-└── README_KR.md
-```
-
----
-
 # 🛠 Tech Stack
 
 - Python
