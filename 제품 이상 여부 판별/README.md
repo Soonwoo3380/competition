@@ -977,17 +977,32 @@ LightGBM, CatBoost, XGBoost는 모두 Gradient Boosting 계열 모델이지만, 
 
 # 15. Tech Stack
 
-| Category | Tools |
-|---|---|
-| Language | Python |
-| Data Processing | Pandas, NumPy |
-| Preprocessing | LabelEncoder, Column Filtering, Feature Reconstruction |
-| Imbalance Handling | TomekLinks, Class Weight |
-| Validation | Stratified K-Fold |
-| Modeling | LightGBM, CatBoost, XGBoost |
-| Ensemble | Soft Voting |
-| Evaluation | F1 Score |
-| Visualization | Matplotlib, Seaborn |
+### Language & Environment
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Data Processing & Preprocessing
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Modeling
+
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge)
+
+### Imbalance Handling & Validation
+
+![Imbalanced Learn](https://img.shields.io/badge/Imbalanced--learn-00599C?style=for-the-badge)
+![Stratified K--Fold](https://img.shields.io/badge/Stratified_K--Fold-6A5ACD?style=for-the-badge)
+
+### Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
