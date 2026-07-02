@@ -3,17 +3,7 @@
 > **LG Aimers 3기 온라인 해커톤**  
 > 제품 코드 중심의 판매 데이터를 실제 제품 의미와 소비 패턴 기반 Feature로 재구성하여 향후 판매량을 예측한 프로젝트입니다.
 
-<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Competition-LG%20Aimers%203-blue"/>
-  <img src="https://img.shields.io/badge/Task-Time%20Series%20Forecasting-green"/>
-  <img src="https://img.shields.io/badge/Model-LSTM-red"/>
-  <img src="https://img.shields.io/badge/Metric-SFA-orange"/>
-  <img src="https://img.shields.io/badge/Rank-57%20%2F%20747-success"/>
-</p>
-
-<br/>
 
 ## Table of Contents
 
