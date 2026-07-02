@@ -17,9 +17,9 @@
 - [8. Results](#8-results)
 - [9. My Contribution](#9-my-contribution)
 - [10. Lessons Learned](#10-lessons-learned)
-- [11. Repository Structure](#11-repository-structure)
-- [12. Tech Stack](#12-tech-stack)
-
+- [11. Tech Stack](#12-tech-stack)
+- [12. Summary](#12-summary)
+  
 ---
 
 # 1. Project Overview
