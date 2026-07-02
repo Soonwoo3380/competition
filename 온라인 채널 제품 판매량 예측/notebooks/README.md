@@ -83,12 +83,13 @@ LSTM Forecasting
 
 ## 📈 Results
 
-  Metric                             Result
-  --------------- -------------------------
-  Public Score                  **0.22639**
-  Private Score                 **0.22946**
-  Rank              **31 / 740 (Top 4.2%)**
-  Improvement       **61.7% over baseline**
+| Metric | Result |
+|---------|-------:|
+| Evaluation Metric | **SFA** |
+| Public Score | **0.22639** |
+| Private Score | **0.22946** |
+| Rank | **31 / 740 (Top 4.2%)** |
+| Improvement | **61.7% over Baseline** |
 
 ------------------------------------------------------------------------
 
