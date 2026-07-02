@@ -1,39 +1,26 @@
-# 🏆 Competition Portfolio
+# Competition Projects
 
-Data Science & Machine Learning Competitions
+데이터 분석 및 머신러닝 경진대회에서 수행한 프로젝트를 정리한 저장소입니다.
+각 프로젝트는 문제 정의, 데이터 이해, 전처리, 피처 설계, 모델링, 성능 개선 과정을 중심으로 정리했습니다.
 
----
+## Projects
 
-## Featured Projects
+| Project                                        | Task      | Main Focus                        |
+| ---------------------------------------------- | --------- | --------------------------------- |
+| [온라인 채널 제품 판매량 예측](./온라인%20채널%20제품%20판매량%20예측) | 시계열/회귀 예측 | 제품·브랜드·가격 데이터를 활용한 판매량 예측         |
+| [제품 이상 여부 판별](./제품%20이상%20여부%20판별)             | 이진 분류     | 제조 공정 데이터 기반 Normal / AbNormal 판별 |
 
-🏭 Product Defect Classification
-Top 4%
+## Core Skills
 
-> Binary Classification
-> Feature Engineering
-> Ensemble Learning
+* 데이터 전처리 및 결측치/이상치 처리
+* 문제 특성에 맞는 피처 설계
+* 머신러닝 기반 분류 및 예측 모델링
+* 모델 성능 비교 및 앙상블
+* 경진대회 제출 파이프라인 구성
 
-🔗 View Project
+```
 
----
+## About
 
-📈 Online Sales Forecasting
-Top 7%
-
-> Time Series
-> Regression
-> Feature Engineering
-
-🔗 View Project
-
----
-
-## Skills Used
-
-Python • Pandas • LightGBM • CatBoost • XGBoost • Optuna • Scikit-learn • Matplotlib
-
----
-
-## Philosophy
-
-> Models improve when data better reflects the real-world characteristics of the task.
+단순히 모델을 적용하는 것보다, 데이터가 가진 특성을 문제에 맞게 구조화하고 모델이 이를 잘 반영하도록 설계하는 데 초점을 두었습니다.
+각 프로젝트를 통해 데이터의 의미를 파악하고, 성능 개선으로 연결하는 실험 중심의 접근을 경험했습니다.
