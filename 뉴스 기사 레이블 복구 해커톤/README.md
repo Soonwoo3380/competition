@@ -27,19 +27,6 @@
 
 ***
 
-- [1. Project Overview](#1-project-overview)
-- [2. Competition Overview](#2-competition-overview)
-- [3. Dataset](#3-dataset)
-- [4. Motivation](#4-motivation)
-- [5. Project Pipeline](#5-project-pipeline)
-- [6. Feature Engineering](#6-feature-engineering)
-- [7. Modeling](#7-modeling)
-- [8. Results](#8-results)
-- [9. My Contribution](#9-my-contribution)
-- [10. Lessons Learned](#10-lessons-learned)
-- [11. Tech Stack](#11-tech-stack)
-- [12. Summary](#12-summary)
-
 # 1. Project Overview
 
 본 프로젝트는 월간 데이콘 쇼츠 - 뉴스 기사 레이블 복구 해커톤을 대상으로 수행한 뉴스 기사 비지도 분류 프로젝트입니다.
