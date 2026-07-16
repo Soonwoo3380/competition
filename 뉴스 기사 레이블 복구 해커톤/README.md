@@ -8,24 +8,37 @@
 
 ## Table of Contents
 
-- 1. Project Overview
-- 2. Competition Overview
-- 3. Dataset
-- 4. Motivation
-- 5. Data Characteristics
-- 6. Project Pipeline
-- 7. Text Preprocessing
-- 8. Sentence Embedding
-- 9. KMeans Clustering
-- 10. Cluster Interpretation
-- 11. Experiment Strategy
-- 12. Results
-- 13. My Contribution
-- 14. Lessons Learned
-- 15. Tech Stack
-- 16. Summary
+- [1. Project Overview](#1-project-overview)
+- [2. Competition Overview](#2-competition-overview)
+- [3. Dataset](#3-dataset)
+- [4. Motivation](#4-motivation)
+- [5. Data Characteristics](#5-data-characteristics)
+- [6. Project Pipeline](#6-project-pipeline)
+- [7. Text Preprocessing](#7-text-preprocessing)
+- [8. Sentence Embedding](#8-sentence-embedding)
+- [9. KMeans Clustering](#9-kmeans-clustering)
+- [10. Cluster Interpretation](#10-cluster-interpretation)
+- [11. Experiment Strategy](#11-experiment-strategy)
+- [12. Results](#12-results)
+- [13. My Contribution](#13-my-contribution)
+- [14. Lessons Learned](#14-lessons-learned)
+- [15. Tech Stack](#15-tech-stack)
+- [16. Summary](#16-summary)
 
 ***
+
+- [1. Project Overview](#1-project-overview)
+- [2. Competition Overview](#2-competition-overview)
+- [3. Dataset](#3-dataset)
+- [4. Motivation](#4-motivation)
+- [5. Project Pipeline](#5-project-pipeline)
+- [6. Feature Engineering](#6-feature-engineering)
+- [7. Modeling](#7-modeling)
+- [8. Results](#8-results)
+- [9. My Contribution](#9-my-contribution)
+- [10. Lessons Learned](#10-lessons-learned)
+- [11. Tech Stack](#11-tech-stack)
+- [12. Summary](#12-summary)
 
 # 1. Project Overview
 
