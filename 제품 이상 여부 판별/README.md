@@ -68,7 +68,7 @@ AbNormal  : 이상 제품
 |---|---|
 | Competition | 제품 이상 여부 판별 프로젝트 |
 | Program | LG Aimers 5기 |
-| Period | 2024.08.01 ~ 2024.08.27 |
+| Period | 2024.08.01 ~ 2024.08.30 |
 | Task | Binary Classification |
 | Objective | 제조 공정 데이터를 활용한 제품 이상 여부 판별 |
 | Target | `Normal`, `AbNormal` |
